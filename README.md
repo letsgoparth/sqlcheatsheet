@@ -413,9 +413,8 @@ OREDER BY first_name
 ```
 
 ## Author
-SQL Cheat Sheet/ Notes
 
-__[Parth Verma](https://github.com/itsparthverma)__
+### __[Parth Verma](https://github.com/itsparthverma)__
 
 <a href="https://www.linkedin.com/in/itsparthverma"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://letsgoparth.github.io/parthverma.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
