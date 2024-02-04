@@ -425,3 +425,5 @@ OREDER BY first_name
 Parth Verma is a Computer Application student and a Data Analytics enthusiast from Delhi, India. 
 
 
+<!-- 
+Thanks to for icons https://github.com/alexandresanlim/Badges4-README.md-Profile/tree/master -->
