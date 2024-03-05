@@ -31,13 +31,6 @@ SQL Cheat Sheet/ Notes
         <li><a href="#inserting-multiple-records">Inserting Multiple Records</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#insert">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#copy-table">Copy Table</a></li>
     <li><a href="#roadmap">Update</a></li>
     <li><a href="#contributing">Delete</a></li>
@@ -419,8 +412,7 @@ OREDER BY first_name
 <a href="https://www.linkedin.com/in/itsparthverma"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://letsgoparth.github.io/parthverma.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href="https://www.kaggle.com/letsgoparth"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-<a href="mailto:itsparthverma@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/parthverma.raw/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:letsgoparth@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 Parth Verma is a Computer Application student and a Data Analytics enthusiast from Delhi, India. 
 
